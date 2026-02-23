@@ -1,4 +1,4 @@
-#manbaa @krv_coder
+#manbaa 
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
@@ -11,10 +11,10 @@ import json
 import random
 import string
 import asyncio
-#manbaa @krv_coder
+#manbaa 
 # Bot configuration
-API_TOKEN = 'Token joylang'
-ADMIN_ID = id joylang
+API_TOKEN = '8162367529:AAE8OOVJQVK9syCrYZbIWvzRDxcoDVzEbrg'
+ADMIN_ID = 8347167027
 
 logging.basicConfig(level=logging.INFO)
 
@@ -3230,4 +3230,5 @@ if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
     #manbaa @krv_coder
     #manbaa @krv_coder
+
 #manbaga tegilasin !
