@@ -13,7 +13,7 @@ import string
 import asyncio
 #manbaa 
 # Bot configuration
-API_TOKEN = '8162367529:AAE8OOVJQVK9syCrYZbIWvzRDxcoDVzEbrg'
+API_TOKEN = '8162367529:AAH4QsdiIgObGGDiszQRywfLF4Vk94aJIcE'
 ADMIN_ID = 8347167027
 
 logging.basicConfig(level=logging.INFO)
@@ -3245,3 +3245,4 @@ if __name__ == '__main__':
     print("✅ Barcha funksiyalar faol")
     print("=" * 50)
     executor.start_polling(dp, skip_updates=True)
+
